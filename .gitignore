@@ -1,0 +1,1 @@
+"# Ignore Visual Studio and .NET build directories\nbackend/.vs/\nbackend/obj/\nbackend/Debug/\nbackend/BackendApp.csproj.user\nbackend/project.assets.json\nbackend/project.nuget.cache\nbackend/BackendApp.csproj.nuget.*" 
